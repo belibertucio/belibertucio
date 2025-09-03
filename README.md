@@ -1,5 +1,5 @@
 - Hello World! 🌎 I’m Bernardo :]
-- Web, Python and sometimes Lua
+- Web, Python and sometimes Lua and C++
 - Email: belibertucio@gmail.com
 <!---
 belibertucio/belibertucio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
